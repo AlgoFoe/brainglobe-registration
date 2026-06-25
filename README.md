@@ -2,7 +2,7 @@
 [![Get in Touch](https://img.shields.io/badge/Get%20in%20Touch-BrainGlobe-blue)](https://brainglobe.info/contact.html)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14750325-green)](https://doi.org/10.5281/zenodo.14750325)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![Tests](https://img.shields.io/github/actions/workflow/status/AlgoFoe/brainglobe-registration/tests?branch=main)](https://github.com/AlgoFoe/brainglobe-registration/actions)
+[![Tests](https://img.shields.io/github/actions/workflow/status/AlgoFoe/brainglobe-registration/test_and_deploy.yml?branch=main)](https://github.com/AlgoFoe/brainglobe-registration/actions)
 [![Codecov](https://codecov.io/gh/AlgoFoe/brainglobe-registration/graph/badge.svg)](https://codecov.io/gh/AlgoFoe/brainglobe-registration)
 [![Python Version](https://img.shields.io/pypi/pyversions/brainglobe-registration.svg)](https://pypi.org/project/brainglobe-registration)
 [![PyPI](https://img.shields.io/pypi/v/brainglobe-registration.svg)](https://pypi.org/project/brainglobe-registration)
